@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReadBarcode</string>
+    <string name="scanned_code">Scanned Code :</string>
+    <string name="code_format">CodeFormat :</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="scan_another">Scan another</string>
+</resources>
